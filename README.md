@@ -22,9 +22,5 @@ How to Run
 2. Run the main file (app.py)  
 3. Open in browser  
 
-
-
-
-
-## 📌 Author
-Your Name
+Author
+Nisha Kasrade
